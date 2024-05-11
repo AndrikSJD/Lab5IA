@@ -27,7 +27,9 @@ Para este proyecto necesitarás:
 - TensorFlow
 
 Puedes seguir los siguientes videos para instalar Anaconda, Jupyter Notebook y TensorFlow.
+
 https://www.youtube.com/watch?v=QUjtDIalh0k 
+
 https://www.youtube.com/watch?v=BXsgHC8qTac
 
 ## Instrucciones de Uso
